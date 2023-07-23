@@ -1,0 +1,23 @@
+.homepage {
+	height: 100%;
+}
+
+.homepage-login-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	height: 100%;
+	width: 100%;
+}
+
+.login-container-flexbox {
+	display: flex;
+	flex-direction: column;
+	width: 25%;
+	min-width: 200px;
+}
+
+.password-label-span {
+	margin-bottom: 10px;
+}
